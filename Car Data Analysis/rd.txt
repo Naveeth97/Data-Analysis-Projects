@@ -1,4 +1,0 @@
-Librares:
-pandas,numpy
-software:
-excel,jupyter
