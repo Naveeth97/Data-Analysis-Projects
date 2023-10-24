@@ -1,10 +1,10 @@
 # Data-Analysis-Projects
 
-Software Requirement 
+Software Requirement :
 Jupyter 
 Excel
 
-Library Requirement
+Library Requirement:
 Pandas
 Numpy
 Matplotlib
